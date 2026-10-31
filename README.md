@@ -4,7 +4,7 @@
 
 ## Стек
 
-- 1С-Битрикс, OpenCart, WordPress
+- 1С-Битрикс, WordPress
 - PHP 8.x, MySQL, nginx, Redis, Elasticsearch
 - Docker, GitLab CI, мониторинг: UptimeRobot, New Relic
 - Bitrix24: интеграции, роботы, приложения
